@@ -1,4 +1,4 @@
-# Data-Structures-Project-1
+# Data-Structures-Project
 This repository contains a university project for the Data Structures course, implemented in Java.
 
 The project consists of three parts:
